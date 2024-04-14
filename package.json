@@ -1,0 +1,17 @@
+{
+	"name": "madeyellow.variative-audio-source",
+	"displayName": "VariativeAudioSource",
+	"version": "0.1.0",
+	"unity": "2019.1",
+	"author": {
+		"name": "MadeYellow",
+		"url": "https://github.com/madeyellow"
+	},
+	"description": "Play one sound of an array of sounds. Pick random one or play them sequentally. Use pitch shifting to create extra variations.",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/madeyellow/VariativeAudioSource.git"
+	}
+}
